@@ -30,6 +30,7 @@ git checkout tagname : 切换标签
 
 git config --global alias.aliasname 'gitcommand' : 配置git操作的别名
 
-
 配置详细日志别名:git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%
 d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
+
+git clone 'remoteresponsity' : 从远程仓库拉取（通过http或ssh协议）
