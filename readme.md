@@ -2,6 +2,8 @@ pratice use git and github
 
 git log : 提交日志
 
+git reflog : 操作日志
+
 git status : 当前仓库状态
 
 git init ：初始化本地仓库，使用该命令后才能进行git的操作（当然，使用git clone 从远程仓库后已进行init）
@@ -18,7 +20,7 @@ git branch -d branchname : 删除分支（当分支有未合并的文件时删�
 
 git checkout branchname : 切换分支
 
-git merge branchname : 合并分支（注意在合并分支前必须切换到master分支）
+git merge branchname : 合并分支
 
 git tag : 查看标签
 
