@@ -60,3 +60,5 @@ git clone 'remoteresponsity' : 从远程仓库拉取（通过http或ssh协议）
 合并某分支到当前分支：git merge <name>
 
 删除分支：git branch -d <name>
+
+测试冲突 branch2
