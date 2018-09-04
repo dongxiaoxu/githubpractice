@@ -63,6 +63,8 @@ git clone 'remoteresponsity' : 从远程仓库拉取（通过http或ssh协议）
 
 删除分支：git branch -d <name>
 
+删除远程分支： git push -d origin <branchname>
+
 查看远程库信息，使用git remote -v；
 
 本地新建的分支如果不推送到远程，对其他人就是不可见的；
