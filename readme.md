@@ -74,3 +74,5 @@ git clone 'remoteresponsity' : 从远程仓库拉取（通过http或ssh协议）
 未完成 => 已完成
 
 branch1完成
+
+测试已commit恢复特定版本
