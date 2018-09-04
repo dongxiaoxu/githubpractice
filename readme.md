@@ -67,4 +67,4 @@ git clone 'remoteresponsity' : 从远程仓库拉取（通过http或ssh协议）
 
 测试冲突 branch2
 
-
+解决bug
