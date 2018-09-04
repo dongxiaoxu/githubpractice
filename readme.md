@@ -61,4 +61,8 @@ git clone 'remoteresponsity' : 从远程仓库拉取（通过http或ssh协议）
 
 删除分支：git branch -d <name>
 
+
 测试冲突：branch1
+
+测试冲突 branch2
+
